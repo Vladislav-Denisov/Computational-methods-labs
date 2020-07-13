@@ -29,5 +29,5 @@
 ```
 cmake --build . --config RELEASE
 ```
-Исполняемые файлы будут расположены по следующему пути `build/labs/lab_<NUMBMER>/Release/`.
+Исполняемые файлы будут расположены по следующему пути `build/labs/lab_<NUMBER>/Release/`.
 
